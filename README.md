@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=also%20known%20as%20Jance" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🛸 About Me
 
 Just a regular alien who loves to code. If we were to have powers, mine would be metallokinesis, the ability to manipulate metal. I think it would be cool to control and shape metal however I want, especially since I’ve always found technology and machines interesting. I see myself having fun with coding because it gives me a similar feeling of creating, controlling, and experimenting with different things. That’s why I want to keep exploring coding and see what I can create with it. (no pun intended... I'm only like this with technology, and im not like this in relationships at all infact, I'm the OPPOSITE thats why I get to be another version of myself in technology). Also, I'm learning/coding because I personally enjoy it, not because I'm trying to impress anyone.
 
-🌱 &nbsp;I'm currently learning **C++, Python, Javascript**  
-👯 &nbsp;I'm looking to collaborate on **website development**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I kin Peridot in Steven Universe**
+🚀 &nbsp;I'm currently learning **C++, Python, Javascript**  
+👾 &nbsp;I'm looking to collaborate on **website development**  
+👩🏻‍🚀 &nbsp;Pronouns: **she/her**  
+👽 &nbsp;Fun fact: **I kin Peridot in Steven Universe**
 
 ### 🛠️ Tech Stack
 
